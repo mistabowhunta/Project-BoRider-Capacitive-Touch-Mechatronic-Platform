@@ -36,7 +36,7 @@ During live-fire stress testing, a 3D-printed drive gear on the main axle began 
 
 ## Dependencies
 Ensure the following libraries are installed on the target environment:
-\`\`\`bash
+```bash
 pip3 install RPi.GPIO adafruit-circuitpython-neopixel adafruit-blinka
-\`\`\`
+```
 *(Note: Audio requires the native Linux `aplay` package)*
